@@ -1,0 +1,6 @@
+{
+  "name": "RHD Prevention Health Agent",
+  "description": "Culturally respectful, guideline-based educational support for acute rheumatic fever (ARF) and rheumatic heart disease (RHD) prevention in remote Australian communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
