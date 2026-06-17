@@ -1,0 +1,9 @@
+{
+  "short_name": "RHD Agent",
+  "name": "RHD Prevention Health Agent",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#047857",
+  "background_color": "#ffffff"
+}
