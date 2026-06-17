@@ -94,7 +94,7 @@ async function startServer() {
       });
 
       const response = await ai.models.generateContent({
-        model: "gemini-3.5-flash",
+        model: "gemini-2.5-flash",
         contents: contentsList,
         config: {
           systemInstruction: SYSTEM_INSTRUCTION,
